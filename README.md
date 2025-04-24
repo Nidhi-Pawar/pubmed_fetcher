@@ -7,10 +7,10 @@ A Python CLI tool to fetch PubMed research papers matching a query and extract t
 ## 🚀 Features
 
 - Search PubMed using full query syntax
-- Filter papers by author affiliation (industry vs academic)
+- Filter papers by author affiliation 
 - Export results to CSV or print to console
 - Modular CLI interface built with `Typer`
-- Poetry-managed & GitHub-ready
+- Poetry-managed
 
 ---
 ## 📜Project Structure
